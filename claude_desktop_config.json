@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "task-management": {
+      "command": "C:\\Users\\LOCHAN S\\AppData\\Local\\Python\\bin\\python.exe",
+      "args": [
+        "C:\\Users\\LOCHAN S\\PyCharmMiscProject\\task_server.py"
+      ]
+    }
+  }
+}
